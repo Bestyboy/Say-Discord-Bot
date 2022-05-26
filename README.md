@@ -12,8 +12,10 @@
 ## if you want to donate you can buy me a coffee at [Buy Me A Coffee](https://www.buymeacoffee.com/p33t "Buy Me A Coffee")
 
 # If you want to get this bot hosted for free
-## you can use my free hosting at [hosting.p33t.net](https://hosting.p33t.net "hosting.p33t.net")
+## you can use my free hosting at [zenet.host](https://zenet.host "zenet.host")
 ## Don't worry you don't need to add any payment details or something like that
+Please note that we do not provide support for the bot there. We can help you install it but we will not help you add more functions to it.
+
 
 
 [1]: https://discord.com/developers/applications "Discord Developer Portal"
